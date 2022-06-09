@@ -1,0 +1,2834 @@
+{
+    "success": 1,
+    "results": [
+        {
+            "competitions": {
+                "key": "COMP:10328858",
+                "eventTypeId": 4,
+                "name": "Twenty20 Big Bash",
+                "eventId": 27996014,
+                "competitionId": 10328858
+            },
+            "event": {
+                "name": "Melbourne Renegades v Melbourne Stars",
+                "countryCode": "AU",
+                "eventId": 30235216,
+                "competitionId": 10328858,
+                "key": "EVENT:30235216",
+                "openDate": "2021-01-20T08:15:00.000Z",
+                "timezone": "GMT",
+                "videoAvailable": false,
+                "onTvChannels": [
+                    "BT Sport 1"
+                ],
+                "eventTypeId": 4
+            },
+            "updated_at": "1611138025",
+            "timeline": {
+                "fullTimeElapsed": {
+                    "sec": 0,
+                    "hour": 0,
+                    "min": 0
+                },
+                "eventId": 30235216,
+                "stateOfBall": {
+                    "dismissalTypeName": "Not Out",
+                    "bye": "0",
+                    "overNumber": "6",
+                    "outcomeId": "0",
+                    "noBall": "0",
+                    "wide": "0",
+                    "bowlerName": "Marcus Stoinis",
+                    "referralOutcome": "0",
+                    "appealId": "0",
+                    "overBallNumber": "1",
+                    "batsmanRuns": "1",
+                    "appealTypeName": "Not Out",
+                    "batsmanName": "Jake Fraser-McGurk",
+                    "legBye": "0"
+                },
+                "hasSets": false,
+                "currentDay": "1",
+                "currentSet": 1,
+                "matchStatus": "InPlay",
+                "eventTypeId": 4,
+                "matchType": "LIMITED_OVER",
+                "score": {
+                    "away": {
+                        "penaltiesSequence": [],
+                        "inning1": {
+                            "overs": "20.0",
+                            "wickets": "6",
+                            "runs": "158"
+                        },
+                        "highlight": false,
+                        "halfTimeScore": "",
+                        "fullTimeScore": "",
+                        "penaltiesScore": "",
+                        "name": "Melbourne Stars"
+                    },
+                    "home": {
+                        "penaltiesSequence": [],
+                        "highlight": true,
+                        "halfTimeScore": "",
+                        "inning1": {
+                            "runs": "31",
+                            "wickets": "2",
+                            "overs": "6.1"
+                        },
+                        "name": "Melbourne Renegades",
+                        "fullTimeScore": "",
+                        "penaltiesScore": ""
+                    }
+                }
+            },
+            "timeline_updated_at": "1611138497",
+            "markets": [
+                {
+                    "runnerDetails": [
+                        {
+                            "selectionId": 37302,
+                            "runnerOdds": [],
+                            "runnerOrder": 10,
+                            "previousWinRunnerOdds": [],
+                            "handicap": 0,
+                            "previousRunnerOdds": [],
+                            "runnerStatus": "ACTIVE"
+                        },
+                        {
+                            "previousWinRunnerOdds": [],
+                            "previousRunnerOdds": [],
+                            "handicap": 0,
+                            "runnerStatus": "ACTIVE",
+                            "selectionId": 37303,
+                            "runnerOdds": [],
+                            "runnerOrder": 20
+                        }
+                    ],
+                    "rule4Deductions": [],
+                    "turnInPlayEnabled": true,
+                    "betDelay": 8,
+                    "hasBPE": false,
+                    "legTypes": [
+                        "SIMPLE_SELECTION"
+                    ],
+                    "inplay": true,
+                    "guaranteedPriceAvailable": false,
+                    "eachwayAvailable": false,
+                    "hasSGM": false,
+                    "livePriceAvailable": true,
+                    "bettingType": "FIXED_ODDS",
+                    "marketId": "924.250874994",
+                    "bspMarket": false,
+                    "marketStatus": "OPEN",
+                    "market": {
+                        "numberOfUpperLevels": 1,
+                        "sortPriority": 520,
+                        "eventId": 30235216,
+                        "sgmMarket": false,
+                        "marketName": "4th Wicket Caught?*",
+                        "marketTime": "2021-01-20T08:15:00.000Z",
+                        "betDelay": 8,
+                        "numberOfRunners": 2,
+                        "marketStatus": "SUSPENDED",
+                        "marketLevels": [
+                            "AVB_EVENT"
+                        ],
+                        "bspMarket": false,
+                        "productType": "SPORTSBOOK",
+                        "inPlay": true,
+                        "numberOfWinners": 1,
+                        "bettingType": "ODDS",
+                        "runners": [
+                            {
+                                "result": [],
+                                "runnerStatus": "ACTIVE",
+                                "sortPriority": 1,
+                                "selectionId": 37302,
+                                "handicap": 0,
+                                "runnerName": "Yes"
+                            },
+                            {
+                                "runnerStatus": "ACTIVE",
+                                "result": [],
+                                "runnerName": "No",
+                                "handicap": 0,
+                                "selectionId": 37303,
+                                "sortPriority": 2
+                            }
+                        ],
+                        "topLevelEventId": 27996014,
+                        "key": "SPORTSBOOK_MARKET:924.250874994",
+                        "numberOfActiveRunners": 2,
+                        "upperLevelEventId": 27996014,
+                        "marketId": "924.250874994",
+                        "marketType": "X_WICKET_CAUGHT?*",
+                        "competitionId": 10328858,
+                        "canTurnInPlay": true,
+                        "associatedMarkets": [
+                            {
+                                "eventId": 30235216,
+                                "externalMarketId": "42.249144853",
+                                "eventTypeId": 4
+                            }
+                        ],
+                        "eventTypeId": 4
+                    }
+                },
+                {
+                    "marketStatus": "OPEN",
+                    "bspMarket": false,
+                    "bettingType": "MOVING_HANDICAP",
+                    "marketId": "924.250866710",
+                    "livePriceAvailable": true,
+                    "rule4Deductions": [],
+                    "runnerDetails": [
+                        {
+                            "runnerOrder": 10,
+                            "selectionId": 11944693,
+                            "handicap": 25.5,
+                            "runnerStatus": "ACTIVE",
+                            "runnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 2.38
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 2.375
+                                    },
+                                    "fractionalOdds": {
+                                        "numerator": 11,
+                                        "denominator": 8
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 8,
+                                    "numerator": 11
+                                }
+                            },
+                            "previousRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "numerator": 11,
+                                        "denominator": 8
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 2.375
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 11,
+                                    "denominator": 8
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 2.38
+                                }
+                            },
+                            "previousWinRunnerOdds": []
+                        },
+                        {
+                            "selectionId": 11944692,
+                            "runnerOrder": 20,
+                            "runnerStatus": "ACTIVE",
+                            "handicap": 25.5,
+                            "runnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 1.53
+                                },
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "numerator": 8,
+                                        "denominator": 15
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 1.53333333333333
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 15,
+                                    "numerator": 8
+                                }
+                            },
+                            "previousWinRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 1.53
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 8,
+                                    "denominator": 15
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 1.53333333333333
+                                    },
+                                    "fractionalOdds": {
+                                        "numerator": 8,
+                                        "denominator": 15
+                                    }
+                                }
+                            },
+                            "previousRunnerOdds": []
+                        }
+                    ],
+                    "betDelay": 8,
+                    "hasBPE": false,
+                    "legTypes": [
+                        "SIMPLE_SELECTION"
+                    ],
+                    "turnInPlayEnabled": true,
+                    "guaranteedPriceAvailable": false,
+                    "eachwayAvailable": false,
+                    "inplay": true,
+                    "hasSGM": false,
+                    "market": {
+                        "marketStatus": "SUSPENDED",
+                        "numberOfRunners": 2,
+                        "sgmMarket": false,
+                        "marketName": "Batsman C Alternate Runs 2 (Team A)",
+                        "eventId": 30235216,
+                        "sortPriority": 4130,
+                        "numberOfUpperLevels": 1,
+                        "betDelay": 8,
+                        "marketTime": "2021-01-20T08:15:00.000Z",
+                        "numberOfWinners": 1,
+                        "bettingType": "MOVING_HANDICAP",
+                        "productType": "SPORTSBOOK",
+                        "inPlay": true,
+                        "bspMarket": false,
+                        "marketLevels": [
+                            "AVB_EVENT"
+                        ],
+                        "numberOfActiveRunners": 2,
+                        "upperLevelEventId": 27996014,
+                        "key": "SPORTSBOOK_MARKET:924.250866710",
+                        "topLevelEventId": 27996014,
+                        "runners": [
+                            {
+                                "sortPriority": 1,
+                                "selectionId": 11944693,
+                                "handicap": 16.5,
+                                "runnerName": "Sam Harper Under",
+                                "runnerStatus": "ACTIVE",
+                                "result": {
+                                    "type": "UNDER"
+                                }
+                            },
+                            {
+                                "runnerName": "Sam Harper Over",
+                                "handicap": 16.5,
+                                "selectionId": 11944692,
+                                "sortPriority": 2,
+                                "result": {
+                                    "type": "OVER"
+                                },
+                                "runnerStatus": "ACTIVE"
+                            }
+                        ],
+                        "associatedMarkets": [
+                            {
+                                "externalMarketId": "42.249430612",
+                                "eventTypeId": 4,
+                                "eventId": 30235216
+                            }
+                        ],
+                        "eventTypeId": 4,
+                        "canTurnInPlay": true,
+                        "marketId": "924.250866710",
+                        "marketType": "ALTERNATE_TEAM_A_BATSMAN_C_TOTAL_RUNS.",
+                        "competitionId": 10328858
+                    }
+                },
+                {
+                    "livePriceAvailable": true,
+                    "rule4Deductions": [],
+                    "runnerDetails": [
+                        {
+                            "selectionId": 37302,
+                            "runnerOrder": 10,
+                            "runnerStatus": "ACTIVE",
+                            "handicap": 0,
+                            "runnerOdds": {
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "numerator": 4,
+                                        "denominator": 11
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 1.36363636363636
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 11,
+                                    "numerator": 4
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 1.36
+                                }
+                            },
+                            "previousWinRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 1.36
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 11,
+                                    "numerator": 4
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 1.36363636363636
+                                    },
+                                    "fractionalOdds": {
+                                        "denominator": 11,
+                                        "numerator": 4
+                                    }
+                                }
+                            },
+                            "previousRunnerOdds": []
+                        },
+                        {
+                            "runnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 2.75
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 2.75
+                                    },
+                                    "fractionalOdds": {
+                                        "numerator": 7,
+                                        "denominator": 4
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 7,
+                                    "denominator": 4
+                                }
+                            },
+                            "winRunnerOdds": {
+                                "fractionalDisplayOdds": {
+                                    "denominator": 4,
+                                    "numerator": 7
+                                },
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "denominator": 4,
+                                        "numerator": 7
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 2.75
+                                    }
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 2.75
+                                }
+                            },
+                            "previousRunnerOdds": [],
+                            "previousWinRunnerOdds": [],
+                            "runnerOrder": 20,
+                            "selectionId": 37303,
+                            "runnerStatus": "ACTIVE",
+                            "handicap": 0
+                        }
+                    ],
+                    "turnInPlayEnabled": true,
+                    "betDelay": 8,
+                    "hasBPE": false,
+                    "legTypes": [
+                        "SIMPLE_SELECTION"
+                    ],
+                    "inplay": true,
+                    "eachwayAvailable": false,
+                    "guaranteedPriceAvailable": false,
+                    "hasSGM": false,
+                    "marketStatus": "OPEN",
+                    "bettingType": "FIXED_ODDS",
+                    "marketId": "924.250589739",
+                    "bspMarket": false,
+                    "market": {
+                        "numberOfWinners": 1,
+                        "bettingType": "ODDS",
+                        "bspMarket": false,
+                        "marketLevels": [
+                            "AVB_EVENT"
+                        ],
+                        "productType": "SPORTSBOOK",
+                        "inPlay": true,
+                        "marketStatus": "SUSPENDED",
+                        "sgmMarket": false,
+                        "marketName": "3rd Wicket Caught?*",
+                        "eventId": 30235216,
+                        "sortPriority": 520,
+                        "numberOfUpperLevels": 1,
+                        "betDelay": 8,
+                        "marketTime": "2021-01-20T08:15:00.000Z",
+                        "numberOfRunners": 2,
+                        "canTurnInPlay": true,
+                        "associatedMarkets": [
+                            {
+                                "eventId": 30235216,
+                                "externalMarketId": "42.249144853",
+                                "eventTypeId": 4
+                            }
+                        ],
+                        "eventTypeId": 4,
+                        "marketId": "924.250589739",
+                        "competitionId": 10328858,
+                        "marketType": "X_WICKET_CAUGHT?*",
+                        "numberOfActiveRunners": 2,
+                        "upperLevelEventId": 27996014,
+                        "runners": [
+                            {
+                                "handicap": 0,
+                                "runnerName": "Yes",
+                                "sortPriority": 1,
+                                "selectionId": 37302,
+                                "result": [],
+                                "runnerStatus": "ACTIVE"
+                            },
+                            {
+                                "runnerStatus": "ACTIVE",
+                                "result": [],
+                                "selectionId": 37303,
+                                "sortPriority": 2,
+                                "runnerName": "No",
+                                "handicap": 0
+                            }
+                        ],
+                        "key": "SPORTSBOOK_MARKET:924.250589739",
+                        "topLevelEventId": 27996014
+                    }
+                },
+                {
+                    "runnerDetails": [
+                        {
+                            "runnerOrder": 10,
+                            "selectionId": 11944693,
+                            "runnerStatus": "ACTIVE",
+                            "handicap": 2.5,
+                            "runnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 1.67
+                                },
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "numerator": 4,
+                                        "denominator": 6
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 1.66666666666667
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 4,
+                                    "denominator": 6
+                                }
+                            },
+                            "winRunnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 1.67
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 1.66666666666667
+                                    },
+                                    "fractionalOdds": {
+                                        "numerator": 4,
+                                        "denominator": 6
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 4,
+                                    "denominator": 6
+                                }
+                            },
+                            "previousRunnerOdds": [],
+                            "previousWinRunnerOdds": []
+                        },
+                        {
+                            "runnerOdds": {
+                                "fractionalDisplayOdds": {
+                                    "denominator": 10,
+                                    "numerator": 11
+                                },
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "numerator": 11,
+                                        "denominator": 10
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 2.1
+                                    }
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 2.1
+                                }
+                            },
+                            "previousWinRunnerOdds": [],
+                            "previousRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "fractionalDisplayOdds": {
+                                    "numerator": 11,
+                                    "denominator": 10
+                                },
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "numerator": 11,
+                                        "denominator": 10
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 2.1
+                                    }
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 2.1
+                                }
+                            },
+                            "selectionId": 11944692,
+                            "runnerOrder": 20,
+                            "handicap": 2.5,
+                            "runnerStatus": "ACTIVE"
+                        }
+                    ],
+                    "rule4Deductions": [],
+                    "legTypes": [
+                        "SIMPLE_SELECTION"
+                    ],
+                    "betDelay": 8,
+                    "hasBPE": false,
+                    "turnInPlayEnabled": true,
+                    "guaranteedPriceAvailable": false,
+                    "eachwayAvailable": false,
+                    "inplay": true,
+                    "hasSGM": false,
+                    "livePriceAvailable": true,
+                    "bspMarket": false,
+                    "marketId": "924.250866735",
+                    "bettingType": "MOVING_HANDICAP",
+                    "marketStatus": "OPEN",
+                    "market": {
+                        "productType": "SPORTSBOOK",
+                        "inPlay": true,
+                        "bspMarket": false,
+                        "marketLevels": [
+                            "AVB_EVENT"
+                        ],
+                        "bettingType": "MOVING_HANDICAP",
+                        "numberOfWinners": 1,
+                        "numberOfRunners": 2,
+                        "sgmMarket": false,
+                        "marketName": "Team A - Batsman C Number of 4s",
+                        "sortPriority": 2110,
+                        "eventId": 30235216,
+                        "numberOfUpperLevels": 1,
+                        "betDelay": 8,
+                        "marketTime": "2021-01-20T08:15:00.000Z",
+                        "marketStatus": "SUSPENDED",
+                        "marketId": "924.250866735",
+                        "marketType": "TEAM_Y_BATSMAN_X_NUMBER_OF_4S",
+                        "competitionId": 10328858,
+                        "associatedMarkets": [
+                            {
+                                "eventId": 30235216,
+                                "eventTypeId": 4,
+                                "externalMarketId": "42.249430766"
+                            }
+                        ],
+                        "eventTypeId": 4,
+                        "canTurnInPlay": true,
+                        "key": "SPORTSBOOK_MARKET:924.250866735",
+                        "topLevelEventId": 27996014,
+                        "runners": [
+                            {
+                                "result": {
+                                    "type": "UNDER"
+                                },
+                                "runnerStatus": "ACTIVE",
+                                "sortPriority": 1,
+                                "selectionId": 11944693,
+                                "handicap": 1.5,
+                                "runnerName": "Sam Harper Under"
+                            },
+                            {
+                                "runnerStatus": "ACTIVE",
+                                "result": {
+                                    "type": "OVER"
+                                },
+                                "handicap": 1.5,
+                                "runnerName": "Sam Harper Over",
+                                "sortPriority": 2,
+                                "selectionId": 11944692
+                            }
+                        ],
+                        "numberOfActiveRunners": 2,
+                        "upperLevelEventId": 27996014
+                    }
+                },
+                {
+                    "bspMarket": false,
+                    "bettingType": "MOVING_HANDICAP",
+                    "marketId": "924.250866627",
+                    "marketStatus": "OPEN",
+                    "rule4Deductions": [],
+                    "runnerDetails": [
+                        {
+                            "selectionId": 11944693,
+                            "runnerOrder": 10,
+                            "runnerStatus": "ACTIVE",
+                            "handicap": 36.5,
+                            "runnerOdds": {
+                                "fractionalDisplayOdds": {
+                                    "numerator": 8,
+                                    "denominator": 15
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 1.53333333333333
+                                    },
+                                    "fractionalOdds": {
+                                        "denominator": 15,
+                                        "numerator": 8
+                                    }
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 1.53
+                                }
+                            },
+                            "previousWinRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "fractionalDisplayOdds": {
+                                    "numerator": 8,
+                                    "denominator": 15
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 1.53333333333333
+                                    },
+                                    "fractionalOdds": {
+                                        "denominator": 15,
+                                        "numerator": 8
+                                    }
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 1.53
+                                }
+                            },
+                            "previousRunnerOdds": []
+                        },
+                        {
+                            "runnerStatus": "ACTIVE",
+                            "handicap": 36.5,
+                            "selectionId": 11944692,
+                            "runnerOrder": 20,
+                            "previousWinRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 2.38
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 2.375
+                                    },
+                                    "fractionalOdds": {
+                                        "denominator": 8,
+                                        "numerator": 11
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 11,
+                                    "denominator": 8
+                                }
+                            },
+                            "previousRunnerOdds": [],
+                            "runnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 2.38
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 8,
+                                    "numerator": 11
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 2.375
+                                    },
+                                    "fractionalOdds": {
+                                        "numerator": 11,
+                                        "denominator": 8
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "betDelay": 8,
+                    "hasBPE": false,
+                    "legTypes": [
+                        "SIMPLE_SELECTION"
+                    ],
+                    "turnInPlayEnabled": true,
+                    "eachwayAvailable": false,
+                    "guaranteedPriceAvailable": false,
+                    "inplay": true,
+                    "hasSGM": false,
+                    "livePriceAvailable": true,
+                    "market": {
+                        "marketId": "924.250866627",
+                        "competitionId": 10328858,
+                        "marketType": "ALTERNATE_TEAM_A_-BATSMAN_C_TOTAL_RUNS",
+                        "canTurnInPlay": true,
+                        "associatedMarkets": [
+                            {
+                                "eventTypeId": 4,
+                                "externalMarketId": "42.249430776",
+                                "eventId": 30235216
+                            }
+                        ],
+                        "eventTypeId": 4,
+                        "runners": [
+                            {
+                                "runnerStatus": "ACTIVE",
+                                "result": {
+                                    "type": "UNDER"
+                                },
+                                "sortPriority": 1,
+                                "selectionId": 11944693,
+                                "handicap": 28.5,
+                                "runnerName": "Sam Harper Under"
+                            },
+                            {
+                                "runnerStatus": "ACTIVE",
+                                "result": {
+                                    "type": "OVER"
+                                },
+                                "selectionId": 11944692,
+                                "sortPriority": 2,
+                                "runnerName": "Sam Harper Over",
+                                "handicap": 28.5
+                            }
+                        ],
+                        "key": "SPORTSBOOK_MARKET:924.250866627",
+                        "topLevelEventId": 27996014,
+                        "numberOfActiveRunners": 2,
+                        "upperLevelEventId": 27996014,
+                        "bspMarket": false,
+                        "marketLevels": [
+                            "AVB_EVENT"
+                        ],
+                        "productType": "SPORTSBOOK",
+                        "inPlay": true,
+                        "numberOfWinners": 1,
+                        "bettingType": "MOVING_HANDICAP",
+                        "sgmMarket": false,
+                        "marketName": "Batsman C Alternate Runs 1 (Team A)",
+                        "sortPriority": 3730,
+                        "eventId": 30235216,
+                        "numberOfUpperLevels": 1,
+                        "betDelay": 8,
+                        "marketTime": "2021-01-20T08:15:00.000Z",
+                        "numberOfRunners": 2,
+                        "marketStatus": "SUSPENDED"
+                    }
+                },
+                {
+                    "livePriceAvailable": true,
+                    "hasSGM": false,
+                    "inplay": true,
+                    "guaranteedPriceAvailable": false,
+                    "eachwayAvailable": false,
+                    "betDelay": 8,
+                    "hasBPE": false,
+                    "turnInPlayEnabled": true,
+                    "legTypes": [
+                        "SIMPLE_SELECTION"
+                    ],
+                    "rule4Deductions": [],
+                    "runnerDetails": [
+                        {
+                            "runnerOdds": {
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "denominator": 1,
+                                        "numerator": 25
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 26
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 25,
+                                    "denominator": 1
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 26
+                                }
+                            },
+                            "previousWinRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 26
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 1,
+                                    "numerator": 25
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 26
+                                    },
+                                    "fractionalOdds": {
+                                        "denominator": 1,
+                                        "numerator": 25
+                                    }
+                                }
+                            },
+                            "previousRunnerOdds": [],
+                            "selectionId": 22233184,
+                            "runnerOrder": 30,
+                            "runnerStatus": "ACTIVE",
+                            "handicap": 0
+                        },
+                        {
+                            "winRunnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 5
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 5
+                                    },
+                                    "fractionalOdds": {
+                                        "denominator": 1,
+                                        "numerator": 4
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 4,
+                                    "denominator": 1
+                                }
+                            },
+                            "previousRunnerOdds": [],
+                            "previousWinRunnerOdds": [],
+                            "runnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 5
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 4,
+                                    "denominator": 1
+                                },
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "numerator": 4,
+                                        "denominator": 1
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 5
+                                    }
+                                }
+                            },
+                            "runnerStatus": "ACTIVE",
+                            "handicap": 0,
+                            "runnerOrder": 40,
+                            "selectionId": 22233191
+                        },
+                        {
+                            "winRunnerOdds": {
+                                "fractionalDisplayOdds": {
+                                    "numerator": 4,
+                                    "denominator": 1
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 5
+                                    },
+                                    "fractionalOdds": {
+                                        "denominator": 1,
+                                        "numerator": 4
+                                    }
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 5
+                                }
+                            },
+                            "previousRunnerOdds": [],
+                            "previousWinRunnerOdds": [],
+                            "runnerOdds": {
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 5
+                                    },
+                                    "fractionalOdds": {
+                                        "numerator": 4,
+                                        "denominator": 1
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 1,
+                                    "numerator": 4
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 5
+                                }
+                            },
+                            "runnerStatus": "ACTIVE",
+                            "handicap": 0,
+                            "runnerOrder": 50,
+                            "selectionId": 22233186
+                        },
+                        {
+                            "selectionId": 22185877,
+                            "runnerOrder": 60,
+                            "handicap": 0,
+                            "runnerStatus": "ACTIVE",
+                            "runnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 5
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 5
+                                    },
+                                    "fractionalOdds": {
+                                        "denominator": 1,
+                                        "numerator": 4
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 1,
+                                    "numerator": 4
+                                }
+                            },
+                            "previousWinRunnerOdds": [],
+                            "previousRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "fractionalDisplayOdds": {
+                                    "denominator": 1,
+                                    "numerator": 4
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 5
+                                    },
+                                    "fractionalOdds": {
+                                        "denominator": 1,
+                                        "numerator": 4
+                                    }
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 5
+                                }
+                            }
+                        },
+                        {
+                            "handicap": 0,
+                            "runnerStatus": "ACTIVE",
+                            "runnerOrder": 70,
+                            "selectionId": 22233188,
+                            "previousRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 5.5
+                                    },
+                                    "fractionalOdds": {
+                                        "numerator": 9,
+                                        "denominator": 2
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 2,
+                                    "numerator": 9
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 5.5
+                                }
+                            },
+                            "previousWinRunnerOdds": [],
+                            "runnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 5.5
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 2,
+                                    "numerator": 9
+                                },
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "denominator": 2,
+                                        "numerator": 9
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 5.5
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "previousWinRunnerOdds": [],
+                            "previousRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "numerator": 9,
+                                        "denominator": 2
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 5.5
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 2,
+                                    "numerator": 9
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 5.5
+                                }
+                            },
+                            "runnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 5.5
+                                },
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "denominator": 2,
+                                        "numerator": 9
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 5.5
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 2,
+                                    "numerator": 9
+                                }
+                            },
+                            "handicap": 0,
+                            "runnerStatus": "ACTIVE",
+                            "selectionId": 22233187,
+                            "runnerOrder": 80
+                        },
+                        {
+                            "runnerOdds": {
+                                "fractionalDisplayOdds": {
+                                    "numerator": 13,
+                                    "denominator": 8
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 2.625
+                                    },
+                                    "fractionalOdds": {
+                                        "numerator": 13,
+                                        "denominator": 8
+                                    }
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 2.63
+                                }
+                            },
+                            "previousRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 2.625
+                                    },
+                                    "fractionalOdds": {
+                                        "denominator": 8,
+                                        "numerator": 13
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 13,
+                                    "denominator": 8
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 2.63
+                                }
+                            },
+                            "previousWinRunnerOdds": [],
+                            "runnerOrder": 100,
+                            "selectionId": 22233190,
+                            "handicap": 0,
+                            "runnerStatus": "ACTIVE"
+                        },
+                        {
+                            "runnerOdds": {
+                                "fractionalDisplayOdds": {
+                                    "numerator": 15,
+                                    "denominator": 8
+                                },
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "numerator": 15,
+                                        "denominator": 8
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 2.875
+                                    }
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 2.88
+                                }
+                            },
+                            "previousWinRunnerOdds": [],
+                            "previousRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 2.88
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 2.875
+                                    },
+                                    "fractionalOdds": {
+                                        "denominator": 8,
+                                        "numerator": 15
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 8,
+                                    "numerator": 15
+                                }
+                            },
+                            "selectionId": 22233185,
+                            "runnerOrder": 110,
+                            "handicap": 0,
+                            "runnerStatus": "ACTIVE"
+                        },
+                        {
+                            "previousRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 2.63
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 13,
+                                    "denominator": 8
+                                },
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "denominator": 8,
+                                        "numerator": 13
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 2.625
+                                    }
+                                }
+                            },
+                            "previousWinRunnerOdds": [],
+                            "runnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 2.63
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 2.625
+                                    },
+                                    "fractionalOdds": {
+                                        "numerator": 13,
+                                        "denominator": 8
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 13,
+                                    "denominator": 8
+                                }
+                            },
+                            "handicap": 0,
+                            "runnerStatus": "ACTIVE",
+                            "runnerOrder": 120,
+                            "selectionId": 22233182
+                        }
+                    ],
+                    "marketStatus": "OPEN",
+                    "marketId": "924.250866638",
+                    "bettingType": "FIXED_ODDS",
+                    "bspMarket": false,
+                    "market": {
+                        "canTurnInPlay": true,
+                        "eventTypeId": 4,
+                        "associatedMarkets": [
+                            {
+                                "externalMarketId": "42.249430701",
+                                "eventTypeId": 4,
+                                "eventId": 30235216
+                            }
+                        ],
+                        "competitionId": 10328858,
+                        "marketType": "TEAM_A_-_BATSMAN_C_TOTAL_RUNS_MARGINS",
+                        "marketId": "924.250866638",
+                        "upperLevelEventId": 27996014,
+                        "numberOfActiveRunners": 12,
+                        "runners": [
+                            {
+                                "runnerName": "Sam Harper Between 1.5 and 5.5 Runs",
+                                "handicap": 0,
+                                "selectionId": 22267922,
+                                "sortPriority": 1,
+                                "result": [],
+                                "runnerStatus": "ACTIVE"
+                            },
+                            {
+                                "runnerStatus": "ACTIVE",
+                                "result": [],
+                                "runnerName": "Sam Harper Between 5.5 and 8.5 Runs",
+                                "handicap": 0,
+                                "selectionId": 22473246,
+                                "sortPriority": 2
+                            },
+                            {
+                                "selectionId": 22233184,
+                                "sortPriority": 3,
+                                "runnerName": "Sam Harper Between 8.5 and 12.5 Runs",
+                                "handicap": 0,
+                                "runnerStatus": "ACTIVE",
+                                "result": []
+                            },
+                            {
+                                "runnerStatus": "ACTIVE",
+                                "result": [],
+                                "runnerName": "Sam Harper Between 12.5 and 17.5 Runs",
+                                "handicap": 0,
+                                "selectionId": 22233191,
+                                "sortPriority": 4
+                            },
+                            {
+                                "runnerStatus": "ACTIVE",
+                                "result": [],
+                                "selectionId": 22233186,
+                                "sortPriority": 5,
+                                "runnerName": "Sam Harper Between 17.5 and 23.5 Runs",
+                                "handicap": 0
+                            },
+                            {
+                                "runnerStatus": "ACTIVE",
+                                "result": [],
+                                "runnerName": "Sam Harper Between 23.5 and 30.5 Runs",
+                                "handicap": 0,
+                                "selectionId": 22185877,
+                                "sortPriority": 6
+                            },
+                            {
+                                "sortPriority": 7,
+                                "selectionId": 22233188,
+                                "handicap": 0,
+                                "runnerName": "Sam Harper Between 30.5 and 39.5 Runs",
+                                "result": [],
+                                "runnerStatus": "ACTIVE"
+                            },
+                            {
+                                "runnerStatus": "ACTIVE",
+                                "result": [],
+                                "sortPriority": 8,
+                                "selectionId": 22233187,
+                                "handicap": 0,
+                                "runnerName": "Sam Harper Between 39.5 and 52.5 Runs"
+                            },
+                            {
+                                "runnerStatus": "ACTIVE",
+                                "result": [],
+                                "sortPriority": 9,
+                                "selectionId": 22233183,
+                                "handicap": 0,
+                                "runnerName": "Sam Harper 8.5 Runs or less"
+                            },
+                            {
+                                "sortPriority": 10,
+                                "selectionId": 22233190,
+                                "handicap": 0,
+                                "runnerName": "Sam Harper Between 8.5 and 23.5 Runs",
+                                "runnerStatus": "ACTIVE",
+                                "result": []
+                            },
+                            {
+                                "runnerStatus": "ACTIVE",
+                                "result": [],
+                                "sortPriority": 11,
+                                "selectionId": 22233185,
+                                "handicap": 0,
+                                "runnerName": "Sam Harper Between 23.5 and 39.5 Runs"
+                            },
+                            {
+                                "selectionId": 22233182,
+                                "sortPriority": 12,
+                                "runnerName": "Sam Harper 39.5 Runs or more",
+                                "handicap": 0,
+                                "runnerStatus": "ACTIVE",
+                                "result": []
+                            }
+                        ],
+                        "key": "SPORTSBOOK_MARKET:924.250866638",
+                        "topLevelEventId": 27996014,
+                        "numberOfWinners": 1,
+                        "bettingType": "ODDS",
+                        "bspMarket": false,
+                        "marketLevels": [
+                            "AVB_EVENT"
+                        ],
+                        "inPlay": true,
+                        "productType": "SPORTSBOOK",
+                        "marketStatus": "SUSPENDED",
+                        "betDelay": 8,
+                        "marketTime": "2021-01-20T08:15:00.000Z",
+                        "marketName": "Batsman C Runs Margins (Team A)",
+                        "sgmMarket": false,
+                        "sortPriority": 2910,
+                        "numberOfUpperLevels": 1,
+                        "eventId": 30235216,
+                        "numberOfRunners": 12
+                    }
+                },
+                {
+                    "livePriceAvailable": true,
+                    "betDelay": 8,
+                    "legTypes": [
+                        "SIMPLE_SELECTION"
+                    ],
+                    "hasBPE": false,
+                    "turnInPlayEnabled": true,
+                    "runnerDetails": [
+                        {
+                            "runnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 1.91
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 1.90909090909091
+                                    },
+                                    "fractionalOdds": {
+                                        "denominator": 11,
+                                        "numerator": 10
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 11,
+                                    "numerator": 10
+                                }
+                            },
+                            "winRunnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 1.91
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 11,
+                                    "numerator": 10
+                                },
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "denominator": 11,
+                                        "numerator": 10
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 1.90909090909091
+                                    }
+                                }
+                            },
+                            "previousRunnerOdds": [],
+                            "previousWinRunnerOdds": [],
+                            "runnerOrder": 10,
+                            "selectionId": 7017820,
+                            "runnerStatus": "ACTIVE",
+                            "handicap": 51.5
+                        },
+                        {
+                            "previousWinRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 1.91
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 1.90909090909091
+                                    },
+                                    "fractionalOdds": {
+                                        "numerator": 10,
+                                        "denominator": 11
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 10,
+                                    "denominator": 11
+                                }
+                            },
+                            "previousRunnerOdds": [],
+                            "runnerOdds": {
+                                "fractionalDisplayOdds": {
+                                    "denominator": 11,
+                                    "numerator": 10
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 1.90909090909091
+                                    },
+                                    "fractionalOdds": {
+                                        "numerator": 10,
+                                        "denominator": 11
+                                    }
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 1.91
+                                }
+                            },
+                            "runnerStatus": "ACTIVE",
+                            "handicap": 51.5,
+                            "selectionId": 7017819,
+                            "runnerOrder": 20
+                        }
+                    ],
+                    "rule4Deductions": [],
+                    "hasSGM": false,
+                    "guaranteedPriceAvailable": false,
+                    "eachwayAvailable": false,
+                    "inplay": true,
+                    "marketStatus": "OPEN",
+                    "bspMarket": false,
+                    "marketId": "924.250589432",
+                    "bettingType": "MOVING_HANDICAP",
+                    "market": {
+                        "sortPriority": 1410,
+                        "eventId": 30235216,
+                        "numberOfUpperLevels": 1,
+                        "sgmMarket": false,
+                        "marketName": "Fall of 3rd Wicket (2nd Innings)",
+                        "marketTime": "2021-01-20T08:15:00.000Z",
+                        "betDelay": 8,
+                        "numberOfRunners": 2,
+                        "marketStatus": "SUSPENDED",
+                        "marketLevels": [
+                            "AVB_EVENT"
+                        ],
+                        "bspMarket": false,
+                        "productType": "SPORTSBOOK",
+                        "inPlay": true,
+                        "bettingType": "MOVING_HANDICAP",
+                        "numberOfWinners": 1,
+                        "runners": [
+                            {
+                                "sortPriority": 1,
+                                "selectionId": 7017820,
+                                "handicap": 35.5,
+                                "runnerName": "Under",
+                                "runnerStatus": "ACTIVE",
+                                "result": {
+                                    "type": "UNDER"
+                                }
+                            },
+                            {
+                                "handicap": 35.5,
+                                "runnerName": "Over",
+                                "sortPriority": 2,
+                                "selectionId": 7017819,
+                                "result": {
+                                    "type": "OVER"
+                                },
+                                "runnerStatus": "ACTIVE"
+                            }
+                        ],
+                        "topLevelEventId": 27996014,
+                        "key": "SPORTSBOOK_MARKET:924.250589432",
+                        "numberOfActiveRunners": 2,
+                        "upperLevelEventId": 27996014,
+                        "marketId": "924.250589432",
+                        "marketType": "RUNS_FALL_OF_3RD_WICKET*",
+                        "competitionId": 10328858,
+                        "canTurnInPlay": true,
+                        "associatedMarkets": [
+                            {
+                                "eventId": 30235216,
+                                "eventTypeId": 4,
+                                "externalMarketId": "42.249144726"
+                            }
+                        ],
+                        "eventTypeId": 4
+                    }
+                },
+                {
+                    "livePriceAvailable": true,
+                    "rule4Deductions": [],
+                    "runnerDetails": [
+                        {
+                            "winRunnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 4
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 1,
+                                    "numerator": 3
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 4
+                                    },
+                                    "fractionalOdds": {
+                                        "numerator": 3,
+                                        "denominator": 1
+                                    }
+                                }
+                            },
+                            "previousRunnerOdds": [],
+                            "previousWinRunnerOdds": [],
+                            "runnerOdds": {
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 4
+                                    },
+                                    "fractionalOdds": {
+                                        "numerator": 3,
+                                        "denominator": 1
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 1,
+                                    "numerator": 3
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 4
+                                }
+                            },
+                            "runnerStatus": "ACTIVE",
+                            "handicap": 0,
+                            "runnerOrder": 10,
+                            "selectionId": 12378058
+                        },
+                        {
+                            "previousWinRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "denominator": 5,
+                                        "numerator": 1
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 1.2
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 5,
+                                    "numerator": 1
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 1.2
+                                }
+                            },
+                            "previousRunnerOdds": [],
+                            "runnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 1.2
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 1,
+                                    "denominator": 5
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 1.2
+                                    },
+                                    "fractionalOdds": {
+                                        "numerator": 1,
+                                        "denominator": 5
+                                    }
+                                }
+                            },
+                            "runnerStatus": "ACTIVE",
+                            "handicap": 0,
+                            "selectionId": 12378057,
+                            "runnerOrder": 20
+                        }
+                    ],
+                    "legTypes": [
+                        "SIMPLE_SELECTION"
+                    ],
+                    "betDelay": 8,
+                    "hasBPE": false,
+                    "turnInPlayEnabled": true,
+                    "inplay": true,
+                    "guaranteedPriceAvailable": false,
+                    "eachwayAvailable": false,
+                    "hasSGM": false,
+                    "marketStatus": "OPEN",
+                    "marketId": "924.250866647",
+                    "bettingType": "FIXED_ODDS",
+                    "bspMarket": false,
+                    "market": {
+                        "marketId": "924.250866647",
+                        "marketType": "TEAM_A_-_BATSMAN_C_TO_SCORE_50",
+                        "competitionId": 10328858,
+                        "canTurnInPlay": true,
+                        "associatedMarkets": [
+                            {
+                                "eventId": 30235216,
+                                "externalMarketId": "42.249430688",
+                                "eventTypeId": 4
+                            }
+                        ],
+                        "eventTypeId": 4,
+                        "runners": [
+                            {
+                                "runnerStatus": "ACTIVE",
+                                "result": [],
+                                "runnerName": "Sam Harper Yes",
+                                "handicap": 0,
+                                "selectionId": 12378058,
+                                "sortPriority": 1
+                            },
+                            {
+                                "selectionId": 12378057,
+                                "sortPriority": 2,
+                                "runnerName": "Sam Harper No",
+                                "handicap": 0,
+                                "result": [],
+                                "runnerStatus": "ACTIVE"
+                            }
+                        ],
+                        "topLevelEventId": 27996014,
+                        "key": "SPORTSBOOK_MARKET:924.250866647",
+                        "numberOfActiveRunners": 2,
+                        "upperLevelEventId": 27996014,
+                        "marketLevels": [
+                            "AVB_EVENT"
+                        ],
+                        "bspMarket": false,
+                        "productType": "SPORTSBOOK",
+                        "inPlay": true,
+                        "bettingType": "ODDS",
+                        "numberOfWinners": 1,
+                        "sortPriority": 3310,
+                        "numberOfUpperLevels": 1,
+                        "eventId": 30235216,
+                        "sgmMarket": false,
+                        "marketName": "Batsman C To Score a 50 (Team A)",
+                        "marketTime": "2021-01-20T08:15:00.000Z",
+                        "betDelay": 8,
+                        "numberOfRunners": 2,
+                        "marketStatus": "SUSPENDED"
+                    }
+                },
+                {
+                    "linkedMarketId": "1.178034492",
+                    "marketStatus": "OPEN",
+                    "bspMarket": false,
+                    "marketId": "924.250493318",
+                    "bettingType": "FIXED_ODDS",
+                    "livePriceAvailable": true,
+                    "betDelay": 4,
+                    "hasBPE": false,
+                    "turnInPlayEnabled": true,
+                    "legTypes": [
+                        "SIMPLE_SELECTION"
+                    ],
+                    "runnerDetails": [
+                        {
+                            "selectionId": 5728189,
+                            "runnerOrder": 10,
+                            "handicap": 0,
+                            "runnerStatus": "ACTIVE",
+                            "runnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 4
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 3,
+                                    "denominator": 1
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 4
+                                    },
+                                    "fractionalOdds": {
+                                        "denominator": 1,
+                                        "numerator": 3
+                                    }
+                                }
+                            },
+                            "previousWinRunnerOdds": [],
+                            "previousRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "denominator": 1,
+                                        "numerator": 3
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 4
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 3,
+                                    "denominator": 1
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 4
+                                }
+                            }
+                        },
+                        {
+                            "selectionId": 5728187,
+                            "runnerOrder": 20,
+                            "runnerStatus": "ACTIVE",
+                            "handicap": 0,
+                            "runnerOdds": {
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "denominator": 9,
+                                        "numerator": 2
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 1.22222222222222
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 9,
+                                    "numerator": 2
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 1.22
+                                }
+                            },
+                            "previousWinRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "fractionalDisplayOdds": {
+                                    "denominator": 9,
+                                    "numerator": 2
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 1.22222222222222
+                                    },
+                                    "fractionalOdds": {
+                                        "denominator": 9,
+                                        "numerator": 2
+                                    }
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 1.22
+                                }
+                            },
+                            "previousRunnerOdds": []
+                        }
+                    ],
+                    "rule4Deductions": [],
+                    "hasSGM": false,
+                    "eachwayAvailable": false,
+                    "guaranteedPriceAvailable": false,
+                    "inplay": true,
+                    "market": {
+                        "runners": [
+                            {
+                                "runnerName": "Melbourne Renegades",
+                                "handicap": 0,
+                                "selectionId": 5728189,
+                                "sortPriority": 1,
+                                "runnerStatus": "ACTIVE",
+                                "result": {
+                                    "type": "HOME"
+                                }
+                            },
+                            {
+                                "runnerStatus": "ACTIVE",
+                                "result": {
+                                    "type": "AWAY"
+                                },
+                                "runnerName": "Melbourne Stars",
+                                "handicap": 0,
+                                "selectionId": 5728187,
+                                "sortPriority": 2
+                            }
+                        ],
+                        "key": "SPORTSBOOK_MARKET:924.250493318",
+                        "topLevelEventId": 27996014,
+                        "numberOfActiveRunners": 2,
+                        "upperLevelEventId": 27996014,
+                        "marketId": "924.250493318",
+                        "marketType": "MATCH_ODDS",
+                        "competitionId": 10328858,
+                        "canTurnInPlay": true,
+                        "associatedMarkets": [
+                            {
+                                "eventId": 30235216,
+                                "externalMarketId": "42.249044360",
+                                "eventTypeId": 4
+                            }
+                        ],
+                        "eventTypeId": 4,
+                        "marketName": "Match Odds",
+                        "sgmMarket": false,
+                        "sortPriority": 10,
+                        "eventId": 30235216,
+                        "numberOfUpperLevels": 1,
+                        "betDelay": 4,
+                        "marketTime": "2021-01-20T08:15:00.000Z",
+                        "numberOfRunners": 2,
+                        "exchangeMarketId": "1.178034492",
+                        "marketStatus": "SUSPENDED",
+                        "bspMarket": false,
+                        "marketLevels": [
+                            "AVB_EVENT"
+                        ],
+                        "productType": "SPORTSBOOK",
+                        "inPlay": true,
+                        "bettingType": "ODDS",
+                        "numberOfWinners": 1
+                    }
+                },
+                {
+                    "livePriceAvailable": true,
+                    "inplay": true,
+                    "guaranteedPriceAvailable": false,
+                    "eachwayAvailable": false,
+                    "hasSGM": false,
+                    "rule4Deductions": [],
+                    "runnerDetails": [
+                        {
+                            "selectionId": 37302,
+                            "runnerOrder": 10,
+                            "runnerOdds": [],
+                            "previousWinRunnerOdds": [],
+                            "runnerStatus": "ACTIVE",
+                            "handicap": 0,
+                            "previousRunnerOdds": []
+                        },
+                        {
+                            "selectionId": 37303,
+                            "runnerOdds": [],
+                            "runnerOrder": 20,
+                            "previousWinRunnerOdds": [],
+                            "previousRunnerOdds": [],
+                            "handicap": 0,
+                            "runnerStatus": "ACTIVE"
+                        }
+                    ],
+                    "turnInPlayEnabled": true,
+                    "betDelay": 8,
+                    "hasBPE": false,
+                    "legTypes": [
+                        "SIMPLE_SELECTION"
+                    ],
+                    "marketStatus": "OPEN",
+                    "bettingType": "FIXED_ODDS",
+                    "marketId": "924.250875729",
+                    "bspMarket": false,
+                    "market": {
+                        "marketTime": "2021-01-20T08:15:00.000Z",
+                        "betDelay": 8,
+                        "sortPriority": 520,
+                        "numberOfUpperLevels": 1,
+                        "eventId": 30235216,
+                        "marketName": "5th Wicket Caught?*",
+                        "sgmMarket": false,
+                        "numberOfRunners": 2,
+                        "marketStatus": "SUSPENDED",
+                        "marketLevels": [
+                            "AVB_EVENT"
+                        ],
+                        "bspMarket": false,
+                        "inPlay": true,
+                        "productType": "SPORTSBOOK",
+                        "numberOfWinners": 1,
+                        "bettingType": "ODDS",
+                        "runners": [
+                            {
+                                "handicap": 0,
+                                "runnerName": "Yes",
+                                "sortPriority": 1,
+                                "selectionId": 37302,
+                                "runnerStatus": "ACTIVE",
+                                "result": []
+                            },
+                            {
+                                "sortPriority": 2,
+                                "selectionId": 37303,
+                                "handicap": 0,
+                                "runnerName": "No",
+                                "runnerStatus": "ACTIVE",
+                                "result": []
+                            }
+                        ],
+                        "topLevelEventId": 27996014,
+                        "key": "SPORTSBOOK_MARKET:924.250875729",
+                        "upperLevelEventId": 27996014,
+                        "numberOfActiveRunners": 2,
+                        "competitionId": 10328858,
+                        "marketType": "X_WICKET_CAUGHT?*",
+                        "marketId": "924.250875729",
+                        "canTurnInPlay": true,
+                        "eventTypeId": 4,
+                        "associatedMarkets": [
+                            {
+                                "eventTypeId": 4,
+                                "externalMarketId": "42.249144853",
+                                "eventId": 30235216
+                            }
+                        ]
+                    }
+                },
+                {
+                    "marketId": "924.250589743",
+                    "bettingType": "MOVING_HANDICAP",
+                    "bspMarket": false,
+                    "marketStatus": "OPEN",
+                    "turnInPlayEnabled": true,
+                    "betDelay": 8,
+                    "hasBPE": false,
+                    "legTypes": [
+                        "SIMPLE_SELECTION"
+                    ],
+                    "runnerDetails": [
+                        {
+                            "runnerStatus": "ACTIVE",
+                            "handicap": 29.5,
+                            "runnerOrder": 10,
+                            "selectionId": 11944693,
+                            "winRunnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 1.95
+                                },
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "numerator": 20,
+                                        "denominator": 21
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 1.95238095238095
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 20,
+                                    "denominator": 21
+                                }
+                            },
+                            "previousRunnerOdds": [],
+                            "previousWinRunnerOdds": [],
+                            "runnerOdds": {
+                                "fractionalDisplayOdds": {
+                                    "denominator": 21,
+                                    "numerator": 20
+                                },
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "numerator": 20,
+                                        "denominator": 21
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 1.95238095238095
+                                    }
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 1.95
+                                }
+                            }
+                        },
+                        {
+                            "runnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 1.87
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 23,
+                                    "numerator": 20
+                                },
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "denominator": 23,
+                                        "numerator": 20
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 1.8695652173913
+                                    }
+                                }
+                            },
+                            "previousWinRunnerOdds": [],
+                            "previousRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 1.8695652173913
+                                    },
+                                    "fractionalOdds": {
+                                        "denominator": 23,
+                                        "numerator": 20
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 23,
+                                    "numerator": 20
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 1.87
+                                }
+                            },
+                            "selectionId": 11944692,
+                            "runnerOrder": 20,
+                            "handicap": 29.5,
+                            "runnerStatus": "ACTIVE"
+                        }
+                    ],
+                    "rule4Deductions": [],
+                    "hasSGM": false,
+                    "inplay": true,
+                    "eachwayAvailable": false,
+                    "guaranteedPriceAvailable": false,
+                    "livePriceAvailable": true,
+                    "market": {
+                        "inPlay": true,
+                        "productType": "SPORTSBOOK",
+                        "marketLevels": [
+                            "AVB_EVENT"
+                        ],
+                        "bspMarket": false,
+                        "bettingType": "MOVING_HANDICAP",
+                        "numberOfWinners": 1,
+                        "numberOfRunners": 2,
+                        "marketTime": "2021-01-20T08:15:00.000Z",
+                        "betDelay": 8,
+                        "sortPriority": 1710,
+                        "eventId": 30235216,
+                        "numberOfUpperLevels": 1,
+                        "marketName": "Batsman C Runs (Team A)",
+                        "sgmMarket": false,
+                        "marketStatus": "SUSPENDED",
+                        "competitionId": 10328858,
+                        "marketType": "TEAM_A_-_BATSMAN_C_TOTAL_RUNS",
+                        "marketId": "924.250589743",
+                        "eventTypeId": 4,
+                        "associatedMarkets": [
+                            {
+                                "eventId": 30235216,
+                                "externalMarketId": "42.249144905",
+                                "eventTypeId": 4
+                            }
+                        ],
+                        "canTurnInPlay": true,
+                        "topLevelEventId": 27996014,
+                        "key": "SPORTSBOOK_MARKET:924.250589743",
+                        "runners": [
+                            {
+                                "runnerName": "Sam Harper Under",
+                                "handicap": 21.5,
+                                "selectionId": 11944693,
+                                "sortPriority": 1,
+                                "runnerStatus": "ACTIVE",
+                                "result": {
+                                    "type": "UNDER"
+                                }
+                            },
+                            {
+                                "handicap": 21.5,
+                                "runnerName": "Sam Harper Over",
+                                "sortPriority": 2,
+                                "selectionId": 11944692,
+                                "runnerStatus": "ACTIVE",
+                                "result": {
+                                    "type": "OVER"
+                                }
+                            }
+                        ],
+                        "upperLevelEventId": 27996014,
+                        "numberOfActiveRunners": 2
+                    }
+                },
+                {
+                    "livePriceAvailable": true,
+                    "eachwayAvailable": false,
+                    "guaranteedPriceAvailable": false,
+                    "inplay": true,
+                    "hasSGM": false,
+                    "runnerDetails": [
+                        {
+                            "handicap": 0.5,
+                            "runnerStatus": "ACTIVE",
+                            "selectionId": 11944693,
+                            "runnerOrder": 10,
+                            "previousWinRunnerOdds": [],
+                            "previousRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 1.61538461538461
+                                    },
+                                    "fractionalOdds": {
+                                        "denominator": 13,
+                                        "numerator": 8
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 8,
+                                    "denominator": 13
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 1.62
+                                }
+                            },
+                            "runnerOdds": {
+                                "fractionalDisplayOdds": {
+                                    "denominator": 13,
+                                    "numerator": 8
+                                },
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "denominator": 13,
+                                        "numerator": 8
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 1.61538461538461
+                                    }
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 1.62
+                                }
+                            }
+                        },
+                        {
+                            "runnerStatus": "ACTIVE",
+                            "handicap": 0.5,
+                            "selectionId": 11944692,
+                            "runnerOrder": 20,
+                            "previousWinRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 2.2
+                                    },
+                                    "fractionalOdds": {
+                                        "denominator": 5,
+                                        "numerator": 6
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 6,
+                                    "denominator": 5
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 2.2
+                                }
+                            },
+                            "previousRunnerOdds": [],
+                            "runnerOdds": {
+                                "fractionalDisplayOdds": {
+                                    "denominator": 5,
+                                    "numerator": 6
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 2.2
+                                    },
+                                    "fractionalOdds": {
+                                        "numerator": 6,
+                                        "denominator": 5
+                                    }
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 2.2
+                                }
+                            }
+                        }
+                    ],
+                    "rule4Deductions": [],
+                    "betDelay": 8,
+                    "hasBPE": false,
+                    "legTypes": [
+                        "SIMPLE_SELECTION"
+                    ],
+                    "turnInPlayEnabled": true,
+                    "marketStatus": "OPEN",
+                    "bspMarket": false,
+                    "bettingType": "MOVING_HANDICAP",
+                    "marketId": "924.250866677",
+                    "market": {
+                        "productType": "SPORTSBOOK",
+                        "inPlay": true,
+                        "marketLevels": [
+                            "AVB_EVENT"
+                        ],
+                        "bspMarket": false,
+                        "numberOfWinners": 1,
+                        "bettingType": "MOVING_HANDICAP",
+                        "numberOfRunners": 2,
+                        "sortPriority": 2510,
+                        "eventId": 30235216,
+                        "numberOfUpperLevels": 1,
+                        "marketName": "Team A - Batsman C Number of 6s",
+                        "sgmMarket": false,
+                        "marketTime": "2021-01-20T08:15:00.000Z",
+                        "betDelay": 8,
+                        "marketStatus": "SUSPENDED",
+                        "marketId": "924.250866677",
+                        "marketType": "TEAM_Y_BATSMAN_X_NUMBER_OF_6S",
+                        "competitionId": 10328858,
+                        "associatedMarkets": [
+                            {
+                                "eventId": 30235216,
+                                "eventTypeId": 4,
+                                "externalMarketId": "42.249430778"
+                            }
+                        ],
+                        "eventTypeId": 4,
+                        "canTurnInPlay": true,
+                        "topLevelEventId": 27996014,
+                        "key": "SPORTSBOOK_MARKET:924.250866677",
+                        "runners": [
+                            {
+                                "sortPriority": 1,
+                                "selectionId": 11944693,
+                                "handicap": 0.5,
+                                "runnerName": "Sam Harper Under",
+                                "runnerStatus": "ACTIVE",
+                                "result": {
+                                    "type": "UNDER"
+                                }
+                            },
+                            {
+                                "runnerStatus": "ACTIVE",
+                                "result": {
+                                    "type": "OVER"
+                                },
+                                "runnerName": "Sam Harper Over",
+                                "handicap": 0.5,
+                                "selectionId": 11944692,
+                                "sortPriority": 2
+                            }
+                        ],
+                        "numberOfActiveRunners": 2,
+                        "upperLevelEventId": 27996014
+                    }
+                },
+                {
+                    "hasSGM": false,
+                    "eachwayAvailable": false,
+                    "guaranteedPriceAvailable": false,
+                    "inplay": true,
+                    "hasBPE": false,
+                    "betDelay": 8,
+                    "turnInPlayEnabled": true,
+                    "legTypes": [
+                        "SIMPLE_SELECTION"
+                    ],
+                    "runnerDetails": [
+                        {
+                            "handicap": 0,
+                            "runnerStatus": "ACTIVE",
+                            "selectionId": 10632838,
+                            "runnerOrder": 114,
+                            "previousWinRunnerOdds": [],
+                            "previousRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "fractionalDisplayOdds": {
+                                    "denominator": 5,
+                                    "numerator": 7
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 2.4
+                                    },
+                                    "fractionalOdds": {
+                                        "denominator": 5,
+                                        "numerator": 7
+                                    }
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 2.4
+                                }
+                            },
+                            "runnerOdds": {
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "numerator": 7,
+                                        "denominator": 5
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 2.4
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 5,
+                                    "numerator": 7
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 2.4
+                                }
+                            }
+                        },
+                        {
+                            "winRunnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 2.88
+                                },
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "numerator": 15,
+                                        "denominator": 8
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 2.875
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 15,
+                                    "denominator": 8
+                                }
+                            },
+                            "previousRunnerOdds": [],
+                            "previousWinRunnerOdds": [],
+                            "runnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 2.88
+                                },
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "numerator": 15,
+                                        "denominator": 8
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 2.875
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 8,
+                                    "numerator": 15
+                                }
+                            },
+                            "runnerStatus": "ACTIVE",
+                            "handicap": 0,
+                            "runnerOrder": 118,
+                            "selectionId": 22267759
+                        },
+                        {
+                            "runnerOrder": 150,
+                            "selectionId": 16874740,
+                            "handicap": 0,
+                            "runnerStatus": "ACTIVE",
+                            "runnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 6
+                                },
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "numerator": 5,
+                                        "denominator": 1
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 6
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 5,
+                                    "denominator": 1
+                                }
+                            },
+                            "previousRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 6
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 6
+                                    },
+                                    "fractionalOdds": {
+                                        "numerator": 5,
+                                        "denominator": 1
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 1,
+                                    "numerator": 5
+                                }
+                            },
+                            "previousWinRunnerOdds": []
+                        },
+                        {
+                            "previousRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 7
+                                    },
+                                    "fractionalOdds": {
+                                        "numerator": 6,
+                                        "denominator": 1
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 6,
+                                    "denominator": 1
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 7
+                                }
+                            },
+                            "previousWinRunnerOdds": [],
+                            "runnerOdds": {
+                                "fractionalDisplayOdds": {
+                                    "denominator": 1,
+                                    "numerator": 6
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 7
+                                    },
+                                    "fractionalOdds": {
+                                        "numerator": 6,
+                                        "denominator": 1
+                                    }
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 7
+                                }
+                            },
+                            "handicap": 0,
+                            "runnerStatus": "ACTIVE",
+                            "runnerOrder": 160,
+                            "selectionId": 11894775
+                        },
+                        {
+                            "selectionId": 16469472,
+                            "runnerOrder": 230,
+                            "runnerStatus": "ACTIVE",
+                            "handicap": 0,
+                            "runnerOdds": {
+                                "fractionalDisplayOdds": {
+                                    "numerator": 13,
+                                    "denominator": 1
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 14
+                                    },
+                                    "fractionalOdds": {
+                                        "denominator": 1,
+                                        "numerator": 13
+                                    }
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 14
+                                }
+                            },
+                            "previousWinRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "denominator": 1,
+                                        "numerator": 13
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 14
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 1,
+                                    "numerator": 13
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 14
+                                }
+                            },
+                            "previousRunnerOdds": []
+                        },
+                        {
+                            "selectionId": 9501467,
+                            "runnerOrder": 320,
+                            "handicap": 0,
+                            "runnerStatus": "ACTIVE",
+                            "runnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 23
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 23
+                                    },
+                                    "fractionalOdds": {
+                                        "denominator": 1,
+                                        "numerator": 22
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 22,
+                                    "denominator": 1
+                                }
+                            },
+                            "previousWinRunnerOdds": [],
+                            "previousRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "fractionalDisplayOdds": {
+                                    "denominator": 1,
+                                    "numerator": 22
+                                },
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "numerator": 22,
+                                        "denominator": 1
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 23
+                                    }
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 23
+                                }
+                            }
+                        },
+                        {
+                            "runnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 81
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 81
+                                    },
+                                    "fractionalOdds": {
+                                        "numerator": 80,
+                                        "denominator": 1
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 1,
+                                    "numerator": 80
+                                }
+                            },
+                            "previousWinRunnerOdds": [],
+                            "previousRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 81
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 81
+                                    },
+                                    "fractionalOdds": {
+                                        "denominator": 1,
+                                        "numerator": 80
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 80,
+                                    "denominator": 1
+                                }
+                            },
+                            "selectionId": 6069868,
+                            "runnerOrder": 900,
+                            "handicap": 0,
+                            "runnerStatus": "ACTIVE"
+                        },
+                        {
+                            "previousWinRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 101
+                                },
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "denominator": 1,
+                                        "numerator": 100
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 101
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 1,
+                                    "numerator": 100
+                                }
+                            },
+                            "previousRunnerOdds": [],
+                            "runnerOdds": {
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 101
+                                    },
+                                    "fractionalOdds": {
+                                        "denominator": 1,
+                                        "numerator": 100
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "denominator": 1,
+                                    "numerator": 100
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 101
+                                }
+                            },
+                            "runnerStatus": "ACTIVE",
+                            "handicap": 0,
+                            "selectionId": 37471792,
+                            "runnerOrder": 1100
+                        },
+                        {
+                            "runnerOdds": {
+                                "fractionalDisplayOdds": {
+                                    "numerator": 100,
+                                    "denominator": 1
+                                },
+                                "trueOdds": {
+                                    "decimalOdds": {
+                                        "decimalOdds": 101
+                                    },
+                                    "fractionalOdds": {
+                                        "denominator": 1,
+                                        "numerator": 100
+                                    }
+                                },
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 101
+                                }
+                            },
+                            "previousRunnerOdds": [],
+                            "winRunnerOdds": {
+                                "decimalDisplayOdds": {
+                                    "decimalOdds": 101
+                                },
+                                "trueOdds": {
+                                    "fractionalOdds": {
+                                        "denominator": 1,
+                                        "numerator": 100
+                                    },
+                                    "decimalOdds": {
+                                        "decimalOdds": 101
+                                    }
+                                },
+                                "fractionalDisplayOdds": {
+                                    "numerator": 100,
+                                    "denominator": 1
+                                }
+                            },
+                            "previousWinRunnerOdds": [],
+                            "runnerOrder": 1100,
+                            "selectionId": 27639699,
+                            "handicap": 0,
+                            "runnerStatus": "ACTIVE"
+                        }
+                    ],
+                    "rule4Deductions": [],
+                    "livePriceAvailable": true,
+                    "bspMarket": false,
+                    "bettingType": "FIXED_ODDS",
+                    "marketId": "924.250589431",
+                    "marketStatus": "OPEN",
+                    "market": {
+                        "marketStatus": "SUSPENDED",
+                        "numberOfUpperLevels": 1,
+                        "sortPriority": 20,
+                        "eventId": 30235216,
+                        "sgmMarket": false,
+                        "marketName": "Top Team A Runscorer",
+                        "marketTime": "2021-01-20T08:15:00.000Z",
+                        "betDelay": 8,
+                        "numberOfRunners": 10,
+                        "numberOfWinners": 1,
+                        "bettingType": "ODDS",
+                        "marketLevels": [
+                            "AVB_EVENT"
+                        ],
+                        "bspMarket": false,
+                        "productType": "SPORTSBOOK",
+                        "inPlay": true,
+                        "numberOfActiveRunners": 10,
+                        "upperLevelEventId": 27996014,
+                        "runners": [
+                            {
+                                "runnerStatus": "ACTIVE",
+                                "result": [],
+                                "handicap": 0,
+                                "runnerName": "Sam Harper",
+                                "sortPriority": 1,
+                                "selectionId": 10632838
+                            },
+                            {
+                                "runnerStatus": "ACTIVE",
+                                "result": [],
+                                "selectionId": 16874740,
+                                "sortPriority": 2,
+                                "runnerName": "Mackenzie Harvey",
+                                "handicap": 0
+                            },
+                            {
+                                "runnerName": "Jake Fraser-McGurk",
+                                "handicap": 0,
+                                "selectionId": 22267759,
+                                "sortPriority": 3,
+                                "runnerStatus": "ACTIVE",
+                                "result": []
+                            },
+                            {
+                                "sortPriority": 4,
+                                "selectionId": 11894775,
+                                "handicap": 0,
+                                "runnerName": "Beau Webster",
+                                "runnerStatus": "ACTIVE",
+                                "result": []
+                            },
+                            {
+                                "runnerStatus": "ACTIVE",
+                                "result": [],
+                                "selectionId": 16469472,
+                                "sortPriority": 5,
+                                "runnerName": "Jack Prestwidge",
+                                "handicap": 0
+                            },
+                            {
+                                "handicap": 0,
+                                "runnerName": "Imad Wasim",
+                                "sortPriority": 6,
+                                "selectionId": 9501467,
+                                "result": [],
+                                "runnerStatus": "ACTIVE"
+                            },
+                            {
+                                "sortPriority": 7,
+                                "selectionId": 6069868,
+                                "handicap": 0,
+                                "runnerName": "Josh Lalor",
+                                "runnerStatus": "ACTIVE",
+                                "result": []
+                            },
+                            {
+                                "runnerStatus": "ACTIVE",
+                                "result": [],
+                                "runnerName": "Aaron Finch",
+                                "handicap": 0,
+                                "selectionId": 3628745,
+                                "sortPriority": 8
+                            },
+                            {
+                                "selectionId": 37471792,
+                                "sortPriority": 9,
+                                "runnerName": "Peter Hatzoglou",
+                                "handicap": 0,
+                                "runnerStatus": "ACTIVE",
+                                "result": []
+                            },
+                            {
+                                "runnerStatus": "ACTIVE",
+                                "result": [],
+                                "runnerName": "Zak Evans.",
+                                "handicap": 0,
+                                "selectionId": 27639699,
+                                "sortPriority": 10
+                            }
+                        ],
+                        "topLevelEventId": 27996014,
+                        "key": "SPORTSBOOK_MARKET:924.250589431",
+                        "canTurnInPlay": true,
+                        "associatedMarkets": [
+                            {
+                                "eventId": 30235216,
+                                "eventTypeId": 4,
+                                "externalMarketId": "42.249144737"
+                            }
+                        ],
+                        "eventTypeId": 4,
+                        "marketId": "924.250589431",
+                        "marketType": "TOP_TEAM_A_RUNSCORER",
+                        "competitionId": 10328858
+                    }
+                }
+            ],
+            "markets_updated_at": "1611138492"
+        }
+    ]
+}

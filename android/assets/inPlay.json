@@ -1,0 +1,29 @@
+{
+    "success": 1,
+    "pager": {
+        "page": 1,
+        "per_page": 50,
+        "total": 1
+    },
+    "results": [
+        {
+            "id": "30217247",
+            "sport_id": "4",
+            "time": "1611120600",
+            "time_status": "1",
+            "league": {
+                "id": "9962116",
+                "name": "One Day Internationals"
+            },
+            "home": {
+                "id": "102278",
+                "name": "Bangladesh"
+            },
+            "away": {
+                "id": "101578",
+                "name": "West Indies"
+            },
+            "our_event_id": "3159134"
+        }
+    ]
+}
